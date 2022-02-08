@@ -1,0 +1,17 @@
+/*freddie_utan.html*/
+*{ 
+	font-family: Arial;
+	margin: 0px;
+	padding: 40px;
+	background-color : black;
+	color: yellow
+}
+#h1
+{ color: yellow;
+}
+.a:link, a:visited {
+color : yellow;
+}
+.a:hover, a:active{
+color : white;
+background-color : orange;

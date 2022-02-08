@@ -1,0 +1,13 @@
+/*albumok.html*/
+*{ 
+	margin: 0px;
+	padding: 40px;
+	background-color : black;
+	color: yellow
+}
+.a:link, a:visited {
+color : yellow;
+}
+.a:hover, a:active{
+color : white;
+background-color : orange;

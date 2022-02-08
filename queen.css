@@ -1,0 +1,43 @@
+/*index. html*/
+*{ 
+	font-family: Arial;
+	margin: 0px;
+	padding: 40px;
+	background-color : black;
+	color: yellow
+}
+.h1{
+	color: yellow;
+}
+#keret{
+width : 500px;
+height : 600px;
+}
+a{
+text-decoration : none;
+padding : 5px;
+
+ }
+.a:link, a:visited {
+color : yellow;
+}
+.a:hover, a:active{
+color : white;
+background-color : orange;
+.div1{
+width : 40px;
+min-height : 40px; 
+margin : center-left;
+padding : 10px; 
+}
+p{
+	color:yellow;
+	font-family:arial;
+} 
+.div2{
+	background-color: white;
+	font-family: times new roman;
+	color: black;
+	text-align:right-side;
+}
+ 

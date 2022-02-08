@@ -1,0 +1,22 @@
+/*Brianmay.html*/
+*{
+margin: 0px;
+padding: 0px;
+background-color: black;
+color: yellow;
+.body {
+background-color : black;
+background-image : url(tagok.jpg);
+background-attachment : fixed;
+color: yellow;
+}
+.h1{
+	color:yellow;
+}
+.a:link, a:visited {
+color : yellow;
+}
+.a:hover, a:active{
+color : white;
+background-color : orange;
+
